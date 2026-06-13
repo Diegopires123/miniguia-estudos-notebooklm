@@ -65,4 +65,4 @@ Guarde estes prompts para usar no NotebookLM sempre que precisar revisar ou atua
     > "Considando a tabela de composição de alimentos das fontes, se eu precisar substituir [Exemplo: 300g de frango grelhado], quais seriam as quantidades equivalentes em [Exemplo: Albumina ou Carne Moída] para manter o mesmo teor de proteínas?"
 
 ---
-🎨 Desenvolvido por [Seu Nome] durante o Desafio de Projeto na DIO.
+🎨 Desenvolvido por Diego Assi Pires durante o Desafio de Projeto na DIO.
